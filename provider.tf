@@ -8,7 +8,7 @@ terraform {
     organization = "mindmelting"
 
     workspaces {
-      name = "haaska-home-assistant"
+      name = "terraform-homeassistant-alexa"
     }
   }
 }
